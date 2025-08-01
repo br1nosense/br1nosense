@@ -1,10 +1,7 @@
 ## Hi there I am br1
 <div align="center">    
 
-# Hi <img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm a Full Stack Developer. 🧑🏻‍💻
-
-average front-end developer
-
+# Hi <img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm a average Front-end developer Developer. 🧑🏻‍💻
 
 ### My Skills
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
@@ -22,7 +19,9 @@ average front-end developer
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /></a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /></a>
 
-
+##My start
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=br1nosense)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br1nosense&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=br1nosense&theme=rogue&bg_color=ffffff#gh-light-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=br1nosense&theme=rogue&bg_color=ffffff#gh-light-mode-only)
 
@@ -34,5 +33,6 @@ average front-end developer
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/br1nosense/br1nosense/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/br1nosense/br1nosense/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 </div>  
