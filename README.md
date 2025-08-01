@@ -17,16 +17,17 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="85" title="node">
 </div>
 
-<div align="center">
+<div align="flex">
  
 - 💻 普通码农
 - 🎨 主要使用语言为Vue3,持续学习中
 - 📫 email **963015343@qq.com**
 
+  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br1nosense)](https://github.com/anuraghazra/github-readme-stats)</a>
 </div>
 
 ### My start
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br1nosense)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews)](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews#gh-light-mode-only)
 
