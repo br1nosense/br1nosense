@@ -20,13 +20,12 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /></a>
 
 ### My start
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/br1nosense/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=br1nosense&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1nosense&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<a href="https://github.com/br1nosense/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=br1nosense&repo=convoychat" />
 </a>
-
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=br1nosense&theme=rogue&bg_color=ffffff#gh-light-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=br1nosense&theme=rogue&bg_color=ffffff#gh-light-mode-only)
