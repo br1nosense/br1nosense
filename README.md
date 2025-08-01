@@ -20,10 +20,12 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /></a>
 
 ### My start
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=br1nosense)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br1nosense&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=br1nosense&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1nosense&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
 
 
 
@@ -35,8 +37,8 @@
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews&theme=onedark)](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews&theme=onedark#gh-dark-mode-only)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/br1nosense/br1nosense/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/br1nosense/br1nosense/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/br1nosense/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/br1nosense/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 </div>  
