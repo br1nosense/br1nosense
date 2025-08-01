@@ -17,16 +17,26 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="85" title="node">
 </div>
 
+<div align="center">
+ 
+- 💻 普通码农
+- 🎨 主要使用语言为Vue3,持续学习中
+- 📫 email **963015343@qq.com**
+
+</div>
+
 ### My start
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br1nosense)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews)](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews#gh-light-mode-only)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews&theme=onedark)](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews&theme=onedark#gh-dark-mode-only)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=br1nosense&theme=rogue&bg_color=ffffff#gh-light-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=br1nosense&theme=rogue&bg_color=ffffff#gh-light-mode-only)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=br1nosense&theme=vue#gh-dark-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=br1nosense&theme=vue#gh-dark-mode-only)
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews)](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews#gh-light-mode-only)
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews&theme=onedark)](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews&theme=onedark#gh-dark-mode-only)
 
 ![snake](https://raw.githubusercontent.com/br1nosense/br1nosense/output/github-contribution-grid-snake.svg)
 
