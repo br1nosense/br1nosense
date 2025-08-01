@@ -30,8 +30,7 @@
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews&theme=onedark)](https://github-profile-trophy.vercel.app/?username=br1nosense&title=-Reviews&theme=onedark#gh-dark-mode-only)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/br1nosense/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/br1nosense/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/br1nosense/br1nosense/output/github-contribution-grid-snake.svg)
 
 
 </div>  
